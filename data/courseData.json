@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "title": "Frontend Developer",
+        "image": "https://images.ctfassets.net/aq13lwl6616q/5D0o8xDyIXnNxyWLMtnXmO/08459264445e2d13228a3d1b20ef8229/Become_a_Frontend_Developer.jpg?w=800&h=450&q=50&fm=webp",
+        "description": "No fluff. No outdated tutorials. No overpriced bootcamp. This Frontend Developer Career Path is your step-by-step roadmap to go from beginner (at any age!) to getting hired as a Frontend Developer. You will be guided through our curated curriculum of courses, workshops, challenges, and action items to build your skills, portfolio and experience to become a Frontend Developer.",
+        "duration": "190 hours",
+        "price": "105",
+        "enrolled": "2542",
+        "rating": "4.8"
+    },
+    {
+        "id": "2",
+        "title": "Backend Developer",
+        "image": "https://mona.media/wp-content/uploads/2021/07/backend-development.png",
+        "description": "No fluff. No outdated tutorials. No overpriced bootcamp. This Backend Developer Career Path is your step-by-step roadmap to go from beginner (at any age!) to getting hired as a Backend Developer. You will be guided through our curated curriculum of courses, workshops, challenges, and action items to build your skills, portfolio and experience to become a Backend Developer.",
+        "duration": "190 hours",
+        "price": "175",
+        "enrolled": "2045",
+        "rating": "4.5"
+    },
+    {
+        "id": "3",
+        "title": "Full Stack Developer",
+        "image": "https://www.spaceo.ca/wp-content/uploads/2021/05/what-is-full-stack-development.jpg.webp",
+        "description": "No fluff. No outdated tutorials. No overpriced bootcamp. This Full Stack Developer Career Path is your step-by-step roadmap to go from beginner (at any age!) to getting hired as a Full Stack Developer. You will be guided through our curated curriculum of courses, workshops, challenges, and action items to build your skills, portfolio and experience to become a Full Stack Developer.",
+        "duration": "300 hours",
+        "price": "275",
+        "enrolled": "4542",
+        "rating": "4.6"
+    },
+    {
+        "id": "4",
+        "title": "Android Developer",
+        "image": "https://developer.android.com/images/social/android-developers.png",
+        "description": "No fluff. No outdated tutorials. No overpriced bootcamp. This Android Developer Career Path is your step-by-step roadmap to go from beginner (at any age!) to getting hired as a Android Developer. You will be guided through our curated curriculum of courses, workshops, challenges, and action items to build your skills, portfolio and experience to become a Android Developer.",
+        "duration": "130 hours",
+        "price": "175",
+        "enrolled": "6542",
+        "rating": "4.4"
+    },
+    {
+        "id": "5",
+        "title": "Blockchain Developer",
+        "image": "https://www.interviewbit.com/blog/wp-content/uploads/2021/07/Blockchain-Developer-1.png",
+        "description": "No fluff. No outdated tutorials. No overpriced bootcamp. This Blockchain Developer Career Path is your step-by-step roadmap to go from beginner (at any age!) to getting hired as a Blockchain Developer. You will be guided through our curated curriculum of courses, workshops, challenges, and action items to build your skills, portfolio and experience to become a Blockchain Developer.",
+        "duration": "230 hours",
+        "price": "275",
+        "enrolled": "1542",
+        "rating": "4.7"
+    },
+    {
+        "id": "6",
+        "title": "QA Engineer",
+        "image": "https://a.storyblok.com/f/86602/820x460/31abe93b44/qa-1.jpg",
+        "description": "No fluff. No outdated tutorials. No overpriced bootcamp. This QA Engineer Career Path is your step-by-step roadmap to go from beginner (at any age!) to getting hired as a QA Engineer. You will be guided through our curated curriculum of courses, workshops, challenges, and action items to build your skills, portfolio and experience to become a QA Engineer.",
+        "duration": "130 hours",
+        "price": "375",
+        "enrolled": "5542",
+        "rating": "4.6"
+    },
+    {
+        "id": "7",
+        "title": "Software Developer",
+        "image": "https://miro.medium.com/max/720/1*8joxOy6-cwNeKGi9OD_Tkw.png",
+        "description": "No fluff. No outdated tutorials. No overpriced bootcamp. This Software Developer Career Path is your step-by-step roadmap to go from beginner (at any age!) to getting hired as a Software Developer. You will be guided through our curated curriculum of courses, workshops, challenges, and action items to build your skills, portfolio and experience to become a Software Developer.",
+        "duration": "330 hours",
+        "price": "475",
+        "enrolled": "1542",
+        "rating": "4.9"
+    },
+    {
+        "id": "8",
+        "title": "React Native Developer",
+        "image": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/200411515/original/5dfdd0c4f04a32b886b1df398262d1fcc51de9c3/develop-cross-platform-app-for-you.jpg",
+        "description": "No fluff. No outdated tutorials. No overpriced bootcamp. This React Native Developer Career Path is your step-by-step roadmap to go from beginner (at any age!) to getting hired as a React Native Developer. You will be guided through our curated curriculum of courses, workshops, challenges, and action items to build your skills, portfolio and experience to become a React Native Developer.",
+        "duration": "130 hours",
+        "price": "275",
+        "enrolled": "3392",
+        "rating": "4.5"
+    },
+    {
+        "id": "9",
+        "title": "React Developer",
+        "image": "https://images.ctfassets.net/aq13lwl6616q/26YihBS082ssqu55s02tHb/827b9471c4660d9716d7a896b25dc204/Become_a_React_Developer.jpg",
+        "description": "No fluff. No outdated tutorials. No overpriced bootcamp. This React Developer Career Path is your step-by-step roadmap to go from beginner (at any age!) to getting hired as a React Developer. You will be guided through our curated curriculum of courses, workshops, challenges, and action items to build your skills, portfolio and experience to become a React Developer.",
+        "duration": "130 hours",
+        "price": "375",
+        "enrolled": "3772",
+        "rating": "4.8"
+    }
+]
