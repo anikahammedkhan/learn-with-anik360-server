@@ -2,7 +2,9 @@
 b610-lerning-platform-server-side-anikahammedkhan created by GitHub Classroom
 
 
-## vercel link : https://learn-with-anik360-server-anikahammedkhan.vercel.app/
-### All course link : https://learn-with-anik360-server-anikahammedkhan.vercel.app/courseData/
+# Project Name : Learn With Anik360 [ LMS ]
 
-### Single course link: https://learn-with-anik360-server-anikahammedkhan.vercel.app/courseData/1
+## vercel link : https://learn-with-anik360-server.vercel.app/
+### All course link : https://learn-with-anik360-server.vercel.app/courseData/
+
+### Single course link: https://learn-with-anik360-server.vercel.app/courseData/1
